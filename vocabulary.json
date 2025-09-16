@@ -1,0 +1,560 @@
+[
+    {
+        "id": 1,
+        "spanish": "el viento",
+        "polish": "wiatr",
+        "created_at": "2025-09-16 14:58:11"
+    },
+    {
+        "id": 2,
+        "spanish": "la articulaci\u00f3n",
+        "polish": "staw",
+        "created_at": "2025-09-16 15:04:48"
+    },
+    {
+        "id": 3,
+        "spanish": "el bofet\u00f3n",
+        "polish": "policzek",
+        "created_at": "2025-09-16 15:15:56"
+    },
+    {
+        "id": 4,
+        "spanish": "canoso",
+        "polish": "siwy",
+        "created_at": "2025-09-16 15:19:55"
+    },
+    {
+        "id": 5,
+        "spanish": "el cerebro",
+        "polish": "m\u00f3zg",
+        "created_at": "2025-09-16 15:33:07"
+    },
+    {
+        "id": 6,
+        "spanish": "la columna",
+        "polish": "kr\u0119gos\u0142up",
+        "created_at": "2025-09-16 15:34:30"
+    },
+    {
+        "id": 7,
+        "spanish": "el gesto",
+        "polish": "ruch",
+        "created_at": "2025-09-16 15:34:44"
+    },
+    {
+        "id": 8,
+        "spanish": "el higado",
+        "polish": "w\u0105troba",
+        "created_at": "2025-09-16 15:34:54"
+    },
+    {
+        "id": 9,
+        "spanish": "la l\u00e1grima",
+        "polish": "\u0142za",
+        "created_at": "2025-09-16 15:35:14"
+    },
+    {
+        "id": 10,
+        "spanish": "la palma",
+        "polish": "d\u0142o\u0144",
+        "created_at": "2025-09-16 15:35:22"
+    },
+    {
+        "id": 11,
+        "spanish": "el pulgar",
+        "polish": "kciuk",
+        "created_at": "2025-09-16 15:35:38"
+    },
+    {
+        "id": 12,
+        "spanish": "la saliva",
+        "polish": "\u015blina",
+        "created_at": "2025-09-16 15:35:45"
+    },
+    {
+        "id": 13,
+        "spanish": "el sudor",
+        "polish": "pot",
+        "created_at": "2025-09-16 15:35:56"
+    },
+    {
+        "id": 14,
+        "spanish": "la u\u00f1a",
+        "polish": "paznokie\u0107",
+        "created_at": "2025-09-16 15:36:13"
+    },
+    {
+        "id": 15,
+        "spanish": "bostezar",
+        "polish": "ziewa\u0107",
+        "created_at": "2025-09-16 15:37:03"
+    },
+    {
+        "id": 16,
+        "spanish": "dar a luz",
+        "polish": "rodzi\u0107",
+        "created_at": "2025-09-16 15:37:15"
+    },
+    {
+        "id": 17,
+        "spanish": "estornudar",
+        "polish": "kicha\u0107",
+        "created_at": "2025-09-16 15:37:26"
+    },
+    {
+        "id": 18,
+        "spanish": "masticar",
+        "polish": "\u017cu\u0107",
+        "created_at": "2025-09-16 15:37:32"
+    },
+    {
+        "id": 19,
+        "spanish": "ser clavado",
+        "polish": "by\u0107 podobnym",
+        "created_at": "2025-09-16 15:37:52"
+    },
+    {
+        "id": 20,
+        "spanish": "tener arrugas",
+        "polish": "mie\u0107 zmarszczki",
+        "created_at": "2025-09-16 15:38:01"
+    },
+    {
+        "id": 21,
+        "spanish": "estar animado",
+        "polish": "by\u0107 zach\u0119conym",
+        "created_at": "2025-09-16 15:38:15"
+    },
+    {
+        "id": 22,
+        "spanish": "estar agobiado",
+        "polish": "by\u0107 przyt\u0142oczonym",
+        "created_at": "2025-09-16 15:38:30"
+    },
+    {
+        "id": 23,
+        "spanish": "inculcar",
+        "polish": "wpaja\u0107",
+        "created_at": "2025-09-16 15:38:37"
+    },
+    {
+        "id": 24,
+        "spanish": "no tener dos dedos de frente",
+        "polish": "by\u0107 nierozs\u0105dnym",
+        "created_at": "2025-09-16 15:38:58"
+    },
+    {
+        "id": 25,
+        "spanish": "tener modales",
+        "polish": "mie\u0107 maniery",
+        "created_at": "2025-09-16 15:39:11"
+    },
+    {
+        "id": 26,
+        "spanish": "tener envidia",
+        "polish": "by\u0107 zazdrosnym",
+        "created_at": "2025-09-16 15:39:19"
+    },
+    {
+        "id": 27,
+        "spanish": "volver loco",
+        "polish": "zwariowa\u0107",
+        "created_at": "2025-09-16 15:39:30"
+    },
+    {
+        "id": 28,
+        "spanish": "la nuera",
+        "polish": "synowa",
+        "created_at": "2025-09-16 15:39:45"
+    },
+    {
+        "id": 29,
+        "spanish": "el suegro",
+        "polish": "te\u015b\u0107",
+        "created_at": "2025-09-16 15:39:51"
+    },
+    {
+        "id": 30,
+        "spanish": "el yerno",
+        "polish": "zi\u0119\u0107",
+        "created_at": "2025-09-16 15:40:00"
+    },
+    {
+        "id": 31,
+        "spanish": "conocer(se) de vista",
+        "polish": "zna\u0107 si\u0119 z widzenia",
+        "created_at": "2025-09-16 15:40:29"
+    },
+    {
+        "id": 32,
+        "spanish": "envejecer",
+        "polish": "starze\u0107 si\u0119",
+        "created_at": "2025-09-16 15:40:36"
+    },
+    {
+        "id": 33,
+        "spanish": "madurar",
+        "polish": "dojrzewa\u0107",
+        "created_at": "2025-09-16 15:40:44"
+    },
+    {
+        "id": 34,
+        "spanish": "pelear(se)",
+        "polish": "k\u0142\u00f3ci\u0107 si\u0119",
+        "created_at": "2025-09-16 15:41:00"
+    },
+    {
+        "id": 35,
+        "spanish": "tener un ligue",
+        "polish": "mie\u0107 romans",
+        "created_at": "2025-09-16 15:41:10"
+    },
+    {
+        "id": 36,
+        "spanish": "la boller\u00eda",
+        "polish": "wypieki",
+        "created_at": "2025-09-16 15:41:51"
+    },
+    {
+        "id": 37,
+        "spanish": "la carne guisada",
+        "polish": "mi\u0119so gotowane",
+        "created_at": "2025-09-16 15:42:17"
+    },
+    {
+        "id": 38,
+        "spanish": "la carne asada",
+        "polish": "mi\u0119so pieczone",
+        "created_at": "2025-09-16 15:42:30"
+    },
+    {
+        "id": 39,
+        "spanish": "la fabada",
+        "polish": "gulasz z fasoli",
+        "created_at": "2025-09-16 15:42:43"
+    },
+    {
+        "id": 40,
+        "spanish": "los frutos secos",
+        "polish": "bakalie",
+        "created_at": "2025-09-16 15:42:50"
+    },
+    {
+        "id": 41,
+        "spanish": "la fuente",
+        "polish": "\u017ar\u00f3d\u0142o",
+        "created_at": "2025-09-16 15:42:59"
+    },
+    {
+        "id": 42,
+        "spanish": "el hueso",
+        "polish": "ko\u015b\u0107",
+        "created_at": "2025-09-16 15:43:05"
+    },
+    {
+        "id": 43,
+        "spanish": "el langostino",
+        "polish": "krewetka",
+        "created_at": "2025-09-16 15:43:13"
+    },
+    {
+        "id": 44,
+        "spanish": "las legumbres",
+        "polish": "ro\u015bliny str\u0105czkowe",
+        "created_at": "2025-09-16 15:43:24"
+    },
+    {
+        "id": 45,
+        "spanish": "la lubina",
+        "polish": "oko\u0144",
+        "created_at": "2025-09-16 15:43:28"
+    },
+    {
+        "id": 46,
+        "spanish": "las pechugas de pollo",
+        "polish": "piersi z kurczaka",
+        "created_at": "2025-09-16 15:43:40"
+    },
+    {
+        "id": 47,
+        "spanish": "el pincho",
+        "polish": "przek\u0105ska",
+        "created_at": "2025-09-16 15:43:46"
+    },
+    {
+        "id": 48,
+        "spanish": "la raci\u00f3n",
+        "polish": "porcja",
+        "created_at": "2025-09-16 15:43:58"
+    },
+    {
+        "id": 49,
+        "spanish": "chupar",
+        "polish": "liza\u0107",
+        "created_at": "2025-09-16 15:44:03"
+    },
+    {
+        "id": 50,
+        "spanish": "comer pipas",
+        "polish": "je\u015b\u0107 ziarna",
+        "created_at": "2025-09-16 15:44:09"
+    },
+    {
+        "id": 51,
+        "spanish": "cortar en dados",
+        "polish": "kroi\u0107 w kostk\u0119",
+        "created_at": "2025-09-16 15:44:17"
+    },
+    {
+        "id": 52,
+        "spanish": "hacer la digesti\u00f3n",
+        "polish": "strawi\u0107",
+        "created_at": "2025-09-16 15:44:31"
+    },
+    {
+        "id": 53,
+        "spanish": "ponerse malo",
+        "polish": "zachorowa\u0107",
+        "created_at": "2025-09-16 15:44:56"
+    },
+    {
+        "id": 54,
+        "spanish": "pudrir(se)",
+        "polish": "gni\u0107",
+        "created_at": "2025-09-16 15:45:12"
+    },
+    {
+        "id": 55,
+        "spanish": "el ambulatorio",
+        "polish": "przychodnia",
+        "created_at": "2025-09-16 15:46:47"
+    },
+    {
+        "id": 56,
+        "spanish": "el analg\u00e9sico",
+        "polish": "\u015brodek przeciwb\u00f3lowy",
+        "created_at": "2025-09-16 15:47:07"
+    },
+    {
+        "id": 57,
+        "spanish": "el antiinflamatorio",
+        "polish": "lek przeciwzapalny",
+        "created_at": "2025-09-16 15:47:30"
+    },
+    {
+        "id": 58,
+        "spanish": "beneficioso",
+        "polish": "korzystny",
+        "created_at": "2025-09-16 15:47:39"
+    },
+    {
+        "id": 59,
+        "spanish": "beneficiosa",
+        "polish": "korzystna",
+        "created_at": "2025-09-16 15:47:45"
+    },
+    {
+        "id": 60,
+        "spanish": "la suegra",
+        "polish": "te\u015bciowa",
+        "created_at": "2025-09-16 15:47:54"
+    },
+    {
+        "id": 61,
+        "spanish": "el botiqu\u00edn",
+        "polish": "apteczka",
+        "created_at": "2025-09-16 15:49:38"
+    },
+    {
+        "id": 62,
+        "spanish": "el calmante",
+        "polish": "\u015brodek uspokajaj\u0105cy",
+        "created_at": "2025-09-16 15:49:49"
+    },
+    {
+        "id": 63,
+        "spanish": "el catarro",
+        "polish": "katar",
+        "created_at": "2025-09-16 15:49:56"
+    },
+    {
+        "id": 64,
+        "spanish": "el diagn\u00f3stico",
+        "polish": "diagnoza",
+        "created_at": "2025-09-16 15:53:15"
+    },
+    {
+        "id": 65,
+        "spanish": "la escayola",
+        "polish": "gips",
+        "created_at": "2025-09-16 15:53:41"
+    },
+    {
+        "id": 66,
+        "spanish": "el esparadrapo",
+        "polish": "plaster",
+        "created_at": "2025-09-16 15:53:49"
+    },
+    {
+        "id": 67,
+        "spanish": "la gasa",
+        "polish": "gaza",
+        "created_at": "2025-09-16 15:53:53"
+    },
+    {
+        "id": 68,
+        "spanish": "el grano",
+        "polish": "pryszcz",
+        "created_at": "2025-09-16 15:53:59"
+    },
+    {
+        "id": 69,
+        "spanish": "la inyecci\u00f3n",
+        "polish": "zastrzyk",
+        "created_at": "2025-09-16 15:54:21"
+    },
+    {
+        "id": 70,
+        "spanish": "la lima",
+        "polish": "pilnik",
+        "created_at": "2025-09-16 15:54:26"
+    },
+    {
+        "id": 71,
+        "spanish": "el mareo",
+        "polish": "zawr\u00f3t g\u0142owy",
+        "created_at": "2025-09-16 15:54:37"
+    },
+    {
+        "id": 72,
+        "spanish": "las n\u00e1useas",
+        "polish": "md\u0142o\u015bci",
+        "created_at": "2025-09-16 15:55:02"
+    },
+    {
+        "id": 73,
+        "spanish": "perjudicial",
+        "polish": "szkodliwy",
+        "created_at": "2025-09-16 15:55:13"
+    },
+    {
+        "id": 74,
+        "spanish": "la pomada",
+        "polish": "ma\u015b\u0107",
+        "created_at": "2025-09-16 15:55:20"
+    },
+    {
+        "id": 75,
+        "spanish": "la presi\u00f3n arterial",
+        "polish": "ci\u015bnienie krwi",
+        "created_at": "2025-09-16 15:55:34"
+    },
+    {
+        "id": 76,
+        "spanish": "el s\u00edntoma",
+        "polish": "objaw",
+        "created_at": "2025-09-16 15:55:43"
+    },
+    {
+        "id": 77,
+        "spanish": "contagiar(se)",
+        "polish": "zara\u017ca\u0107",
+        "created_at": "2025-09-16 15:56:00"
+    },
+    {
+        "id": 78,
+        "spanish": "cuidarse",
+        "polish": "dba\u0107 o siebie",
+        "created_at": "2025-09-16 15:56:16"
+    },
+    {
+        "id": 79,
+        "spanish": "curar(se) una herida",
+        "polish": "leczy\u0107 ran\u0119",
+        "created_at": "2025-09-16 15:56:30"
+    },
+    {
+        "id": 80,
+        "spanish": "dar cabezadas",
+        "polish": "zdrzemn\u0105\u0107 si\u0119",
+        "created_at": "2025-09-16 15:56:44"
+    },
+    {
+        "id": 81,
+        "spanish": "dar puntos",
+        "polish": "za\u0142o\u017cy\u0107 szwy",
+        "created_at": "2025-09-16 15:56:51"
+    },
+    {
+        "id": 82,
+        "spanish": "escayolar",
+        "polish": "za\u0142o\u017cy\u0107 gips",
+        "created_at": "2025-09-16 15:57:53"
+    },
+    {
+        "id": 83,
+        "spanish": "estar a dieta",
+        "polish": "by\u0107 na diecie",
+        "created_at": "2025-09-16 15:58:00"
+    },
+    {
+        "id": 84,
+        "spanish": "hacerse un empaste",
+        "polish": "za\u0142o\u017cy\u0107 plomb\u0119",
+        "created_at": "2025-09-16 15:58:12"
+    },
+    {
+        "id": 85,
+        "spanish": "hacerse un esguince",
+        "polish": "skr\u0119ci\u0107 sobie co\u015b",
+        "created_at": "2025-09-16 15:58:52"
+    },
+    {
+        "id": 86,
+        "spanish": "recetar",
+        "polish": "przepisywa\u0107",
+        "created_at": "2025-09-16 15:59:00"
+    },
+    {
+        "id": 87,
+        "spanish": "reponer fuerzas",
+        "polish": "uzupe\u0142ni\u0107 si\u0142y",
+        "created_at": "2025-09-16 15:59:11"
+    },
+    {
+        "id": 88,
+        "spanish": "sentar bien la comida",
+        "polish": "czu\u0107 si\u0119 dobrze po jedzeniu",
+        "created_at": "2025-09-16 15:59:53"
+    },
+    {
+        "id": 89,
+        "spanish": "sentar mal la comida",
+        "polish": "czu\u0107 si\u0119 \u017ale po jedzeniu",
+        "created_at": "2025-09-16 16:00:02"
+    },
+    {
+        "id": 90,
+        "spanish": "tener una cicatriz",
+        "polish": "mie\u0107 blizn\u0119",
+        "created_at": "2025-09-16 16:00:15"
+    },
+    {
+        "id": 91,
+        "spanish": "tener una salud de hierro",
+        "polish": "mie\u0107 \u017celazne zdrowie",
+        "created_at": "2025-09-16 16:00:28"
+    },
+    {
+        "id": 92,
+        "spanish": "vacunarse",
+        "polish": "szczepi\u0107 si\u0119",
+        "created_at": "2025-09-16 16:00:35"
+    },
+    {
+        "id": 93,
+        "spanish": "vendar",
+        "polish": "banda\u017cowa\u0107",
+        "created_at": "2025-09-16 16:00:42"
+    }
+]
