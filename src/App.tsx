@@ -11,7 +11,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div className="container">
         <button onClick={() => { setShowAddWord(!showAddWord); setShowPolishToSpanish(false); }}>DODAJ SŁÓWKO</button>
         <button onClick={() => { setShowPolishToSpanish(!showPolishToSpanish); setShowAddWord(false); }}>TŁUMACZ Z POLSKIEGO NA HISZPAŃSKI</button>
       </div>
